@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dimadur
-- 👀 I’m interested in puppies, blockchain for good and space travel
-- 🌱 I’m currently learning how to use javascript and soon react!
+- 👀 I’m interested in space travel
 - 💞️ I work on projects that tackle identity management 
 
 <!---
